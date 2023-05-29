@@ -1,0 +1,3 @@
+class UnknownShape implements Shape{
+
+}
